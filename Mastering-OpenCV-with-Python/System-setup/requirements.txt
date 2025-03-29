@@ -1,0 +1,8 @@
+opencv-contrib-python==4.10.0.84
+streamlit==1.38.0 
+moviepy==1.0.3 
+jupyter==1.1.1 
+matplotlib==3.9.2 
+pyautogui
+mediapipe
+mime
