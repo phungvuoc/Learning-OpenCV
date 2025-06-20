@@ -1,0 +1,4 @@
+opencv-python
+numpy
+streamlit==1.31.0
+googletrans==3.1.0a0
